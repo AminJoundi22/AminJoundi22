@@ -50,12 +50,35 @@
 
 ---
 
+
+
+## 🚀 Projets Mis en Avant
+<div align="center">
+
+| 📁 Projet IA | ☁️ Projet Cloud/Web | 💾 Database Logic |
+| :--- | :--- | :--- |
+| **Deep-Vision Classifier** | **Cloud-Scale JEE App** | **T-SQL Optimizer** |
+| Détection d'objets avec Python & TensorFlow. | Gestion de microservices avec Docker & JEE. | Procédures stockées complexes & NoSQL. |
+| [Voir Code ↗️](https://github.com/TON_PSEUDO_GITHUB) | [Voir Code ↗️](https://github.com/TON_PSEUDO_GITHUB) | [Voir Code ↗️](https://github.com/TON_PSEUDO_GITHUB) |
+
+</div>
+
+
+
+
 ## 📈 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=nord" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_GITHUB&layout=compact&theme=nord" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=radical&rank_icon=github" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_GITHUB&layout=compact&theme=radical" width="48%">
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_PSEUDO_GITHUB&theme=radical" width="97%">
+
 </div>
+
 
 ---
 
