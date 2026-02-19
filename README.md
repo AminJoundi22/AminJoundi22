@@ -1,10 +1,9 @@
 <div align="center">
 
 <img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/4d3d64a9-8f6b-418c-be04-f5e7f898c62c" />
-"/> 
 
 # 🚀 <span style="color:#FF5733">Amin Joundi</span>
-### 💡 **AI Architect & Cloud Computing Enthusiast**
+### 💡 **AI Architect & Cloud Computing **
 #### 🎓 Étudiant en Master | <span style="color:#00D1FF">22 ans d'innovation</span>
 
 <p align="center">
