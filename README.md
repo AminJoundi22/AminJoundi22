@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="50%"/> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="45%"/> 
 
-# 👋 Hi I'm Amin Joundi
-### Étudiant en Master IA & Cloud Computing | 22 ans
+# 🚀 <span style="color:#FF5733">Amin Joundi</span>
+### 💡 **AI Architect & Cloud Computing Enthusiast**
+#### 🎓 Étudiant en Master | <span style="color:#00D1FF">22 ans d'innovation</span>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Artificial%20Intelligence-blue?style=for-the-badge&logo=brainly" />
-  <img src="https://img.shields.io/badge/-Cloud%20Computing-0078D4?style=for-the-badge&logo=microsoftazure" />
-  <img src="https://img.shields.io/badge/-Fullstack%20Dev-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Deep%20Learning-orange?style=for-the-badge&logo=brainly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Native%20Architecture-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dev-Fullstack%20NextGen-6A0DAD?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=AminJoundi&style=flat&color=orange&label=PROFILE+VIEWS)
-</div>
+![Totals Hits](https://komarev.com/ghpvc/?username=AminJoundi&style=flat-square&color=00D1FF&label=PROFILE+VIEWS)
 
----
+</div>
 
 ## 🧠 À propos de moi
 - 🎓 Actuellement en **Master IA & Cloud Computing**.
