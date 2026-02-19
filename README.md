@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="50%"/> 
 
-# 👋 Salut, moi c'est Amin Joundi
+# 👋 Hi I'm Amin Joundi
 ### Étudiant en Master IA & Cloud Computing | 22 ans
 
 <p align="center">
@@ -60,8 +60,8 @@
 ---
 
 ## 📫 Me contacter
-- 💼 LinkedIn : [Ton Nom](Lien_Vers_Ton_LinkedIn)
-- 📧 Email : [Ton Email]
+- 💼 LinkedIn : [Amin Joundi](https://www.linkedin.com/in/amin-joundi-8197b6394/)
+- 📧 Email : [amineaymane2004@gmail.com]
 - ⚡ Fun fact : Je peux expliquer la différence entre un neurone artificiel et un neurone biologique, mais je cherche toujours mes clés 5 min avant de sortir.
 
 <div align="right">
