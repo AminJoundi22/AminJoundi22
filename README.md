@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="45%"/> 
+<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/4d3d64a9-8f6b-418c-be04-f5e7f898c62c" />
+"/> 
 
 # 🚀 <span style="color:#FF5733">Amin Joundi</span>
 ### 💡 **AI Architect & Cloud Computing Enthusiast**
